@@ -1,6 +1,7 @@
-### Hi there 👋, I am Lidija
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lidijat.lidijat)
+## Hi there 👋, I am Lidija 
+
+![Page Views](https://visitor-badge.glitch.me/badge?page_id=lidijat.lidijat)
 
 - 🔭 I’m currently working on #TidyTuesday
 
