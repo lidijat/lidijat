@@ -1,5 +1,5 @@
 
-## Hi there 👋, I am Lidija 
+## Hi there 👋, I am Lidija
 
 ![Page Views](https://visitor-badge.glitch.me/badge?page_id=lidijat.lidijat)
 
@@ -15,5 +15,5 @@
 
 - 😄 Pronouns: <b>She/Her</b>
 
-- ⚡ Fun fact: <b>I have travelled to 51 countries..and counting</b>
+- ⚡ Fun fact: <b>I have travelled to 51 countries..and counting!</b>
 
