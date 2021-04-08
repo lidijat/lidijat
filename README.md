@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Lidija
 
-${lidijat}.${lidijat}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lidijat.lidijat)
 
 - 🔭 I’m currently working on #TidyTuesday
 
