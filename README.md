@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Lidija
 
-<!--
-**lidijat/lidijat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on #TidyTuesday
 - 🌱 I’m currently learning Python
@@ -10,4 +8,4 @@
 - 📫 How to reach me: lidijat@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have travelled to 51 countries
--->
+
