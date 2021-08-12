@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning <b>Python</b>
 
-- 👯 All of my projects are available at https://lidijat.github.io/
-
 - 💬 Ask me about <b>R, Statistical inference, Machine learning, Experimental design, A/B testing</b>
 
 - 📫 How to reach me: lidijat@gmail.com
